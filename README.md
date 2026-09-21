@@ -1,6 +1,6 @@
 ## Prerequisites
 
-Before getting started, make sure you have the following installed on your system:
+Make sure you have the following installed on your system:
 * **Node.js**: 
   * **v20 or higher**: If you only want to run or edit the application in normal development mode.
   * **v25.5.0 or higher**: Strictly required if you want to use the native `--build-sea` command to compile the standalone `.exe`.
@@ -12,16 +12,15 @@ Before getting started, make sure you have the following installed on your syste
 
 If you are just editing the code and want to test changes quickly without compiling an executable file, follow these steps:
 
-1. Open your terminal in the project directory.
-2. Install the necessary dependencies:
+1. Install the necessary dependencies:
    ```bash
    npm install
    ```
-3. Launch the application using Node.js:
+2. Launch the application using Node.js:
    ```bash
    node server.js
    ```
-4. Open your browser and navigate to `http://localhost:3000` if it doesn't do so already.
+3. Open your browser and navigate to `http://localhost:3000`.
 
 ---
 
