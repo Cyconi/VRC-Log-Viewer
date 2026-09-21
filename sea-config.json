@@ -1,0 +1,5 @@
+{
+    "main": "dist/bundle.js",
+    "output": "VRC-Log-Viewer.exe",
+    "disableExperimentalSEAWarning": true
+}
